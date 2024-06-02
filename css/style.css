@@ -19,6 +19,7 @@ display: flex;
     align-items: center;
     justify-content: space-evenly;
     color: rgba(122, 124, 126, 0.898);
+    position: relative;
    
 }
 .option {
@@ -151,7 +152,7 @@ nav a{
 
 
 footer{
-    height: 12vh;
+    height: 12vh;  
     width: 100%;
     background-color: blue;
     color: white;
@@ -159,6 +160,8 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    position: static;
+   
 }
 
 .hero{
@@ -369,6 +372,7 @@ border-radius: 40%;
     border: 1px solid ;
     padding-top:50px;
     margin-top:290px ;
+    position: relative;
 }
 .linkheader{
     padding-top: 15px;
