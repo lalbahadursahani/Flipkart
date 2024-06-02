@@ -1,0 +1,4 @@
+.flex-all-center p{
+    display: flex;
+    align-items: center;
+}
